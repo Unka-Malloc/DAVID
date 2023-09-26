@@ -1,2 +1,2 @@
-# BB-DAVID
-Bounty Board for AI: Development, Authentication, Validation, Integration, and Delivery System
+# DAVID BBS
+Bounty Board System for AI: Development, Authentication, Validation, Integration, and Delivery
