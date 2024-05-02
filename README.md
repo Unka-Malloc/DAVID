@@ -1,4 +1,7 @@
 # DAVID
+
+![Architecture](doc/arch.png)
+
 Management System for AI Agents: Development, Authentication, Validation, Integration, and Delivery
 
 人类不断的写测试会对人类的编程技能产生影响
@@ -34,4 +37,10 @@ DAVID 的验证理所当然的应该基于一些 NP-Hard 问题
 DAVID 理所当然的需要分布一致性
 
 如何让机器人在拥有智能的情况下只做固定的事情? 很简单, 在它们运行思维模型之后, 在调用硬件之前, 加一道验证锁即可. 这道验证锁将采用白名单机制, 任何没有被预设的行为都将无法从思维模型传达至硬件, 也即: 无法对现实世界产生任何影响.
+
+### Agent Adapter 
+
+### Scheduler
+
+### Verifier
 
